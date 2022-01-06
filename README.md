@@ -1,7 +1,7 @@
 # Ataque-Dos
-Para usar esta herramienta tendras que usar ubuntu 
+Para usar esta herramienta tendras que usar una distro de linux 
 
-Cuando estes usando ubuntu abre la terminal y escribe
+Cuando estes usando linux abre la terminal y escribe
 
 ` sudo apt install git && sudo apt install aircrack-ng` 
 
